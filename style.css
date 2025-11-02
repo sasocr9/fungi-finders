@@ -315,9 +315,9 @@
   }
 
   @media (width <760px) {
-      [aria-controls="primary-nav"] {
-    display: block;
-  }
+    [aria-controls="primary-nav"] {
+      display: block;
+    }
     [aria-expanded="true"] + .primary-navigation {
       display: block;
     }
