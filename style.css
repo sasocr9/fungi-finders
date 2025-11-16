@@ -383,16 +383,16 @@
       }
 
       li {
-        --delay: 0.5s;
+        --delay: 0.3s;
         translate: 50%;
         transition: translate 0.5s var(--delay), opacity 0.5s var(--delay);
       }
 
       li:nth-child(2) {
-        --delay: 0.75s;
+        --delay: 0.6s;
       }
       li:nth-child(3) {
-        --delay: 1s;
+        --delay: 0.9s;
       }
 
       li + li {
